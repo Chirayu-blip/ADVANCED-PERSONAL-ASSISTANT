@@ -53,5 +53,3 @@ For major changes, open an issue first to discuss what you’d like to change.
 This project is licensed under the MIT License.
    
 ---
-
-This way your README reflects that your Jarvis isn’t just “basic” but is **multi-functional and extensible like a real AI assistant** 🚀.  
