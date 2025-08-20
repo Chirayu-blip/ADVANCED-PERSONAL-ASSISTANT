@@ -1,0 +1,15 @@
+[
+  {
+    "role": "user",
+    "content": "Goodbye! have a great day."
+  },
+  {
+    "role": "assistant",
+    "content": "You're welcome! Have a great day too!"
+  },
+  {
+    "role": "assistant",
+    "content": "You're welcome! Have a great day too!",
+    "timestamp": "2025-08-08T12:11:34.697562"
+  }
+]

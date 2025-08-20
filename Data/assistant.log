@@ -1,0 +1,150 @@
+2025-08-07 17:04:09,583 - INFO - Initializing Voice Assistant...
+2025-08-07 17:04:09,588 - INFO - Voice Assistant initialized successfully
+2025-08-07 17:04:09,589 - INFO - Starting voice recognition thread
+2025-08-07 17:04:09,589 - INFO - Starting GUI thread
+2025-08-07 17:04:20,952 - INFO - Processing query: Hello jarvis open chess.com.
+2025-08-07 17:04:21,482 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:04:21,569 - INFO - Decision: ['open chess.com']
+2025-08-07 17:04:21,569 - INFO - Executing automation task
+2025-08-07 17:04:44,847 - INFO - Processing query: Jarvis search for elon musk.
+2025-08-07 17:04:45,333 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:04:45,436 - INFO - Decision: ['google search elon musk']
+2025-08-07 17:04:45,436 - INFO - Executing automation task
+2025-08-07 17:05:19,431 - INFO - Processing query: Who is alone mask?
+2025-08-07 17:05:19,986 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:05:20,107 - INFO - Decision: ['general who is alone mask?']
+2025-08-07 17:05:20,349 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-07 17:05:20,678 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 17:05:47,213 - INFO - Processing query: Bande bande.
+2025-08-07 17:05:47,828 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:05:47,904 - INFO - Decision: ['general bande bande.']
+2025-08-07 17:05:48,120 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-07 17:05:48,467 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 17:06:15,793 - INFO - Processing query: Search for chess.com.
+2025-08-07 17:06:16,399 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:06:16,459 - INFO - Decision: ['google search chess.com']
+2025-08-07 17:06:16,460 - INFO - Executing automation task
+2025-08-07 17:06:38,540 - INFO - Processing query: Open spotify.
+2025-08-07 17:06:39,200 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:06:39,232 - INFO - Decision: ['open spotify']
+2025-08-07 17:06:39,232 - INFO - Executing automation task
+2025-08-07 17:06:50,782 - INFO - Processing query: Open brave.
+2025-08-07 17:06:51,356 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:06:51,451 - INFO - Decision: ['open brave']
+2025-08-07 17:06:51,451 - INFO - Executing automation task
+2025-08-07 17:06:58,761 - INFO - Processing query: Search for youtube.
+2025-08-07 17:06:59,352 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:06:59,386 - INFO - Decision: ['youtube search']
+2025-08-07 17:06:59,387 - INFO - Executing automation task
+2025-08-07 17:07:21,299 - INFO - Processing query: Search youtube on brave.
+2025-08-07 17:07:21,937 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:07:21,996 - INFO - Decision: ['open brave', 'youtube search']
+2025-08-07 17:07:21,997 - INFO - Executing automation task
+2025-08-07 17:07:42,903 - INFO - Processing query: Open brave.
+2025-08-07 17:07:43,442 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:07:43,466 - INFO - Decision: ['open brave']
+2025-08-07 17:07:43,467 - INFO - Executing automation task
+2025-08-07 17:07:52,227 - INFO - Processing query: Open youtube.
+2025-08-07 17:07:52,783 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-07 17:07:52,819 - INFO - Decision: ['open youtube']
+2025-08-07 17:07:52,820 - INFO - Executing automation task
+2025-08-07 18:15:57,147 - INFO - Initializing Voice Assistant...
+2025-08-07 18:15:57,149 - INFO - Voice Assistant initialized successfully
+2025-08-07 18:15:57,149 - INFO - Starting voice recognition thread
+2025-08-07 18:15:57,149 - INFO - Starting GUI thread
+2025-08-08 12:04:43,860 - INFO - Initializing Voice Assistant...
+2025-08-08 12:04:43,862 - INFO - Voice Assistant initialized successfully
+2025-08-08 12:04:43,862 - INFO - Starting voice recognition thread
+2025-08-08 12:04:43,862 - INFO - Starting GUI thread
+2025-08-08 12:04:50,748 - INFO - Processing query: Hey jarvis how are you doing?
+2025-08-08 12:04:52,665 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:04:52,745 - INFO - Decision: ['general how are you doing?']
+2025-08-08 12:04:53,254 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-08 12:04:53,646 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:05:07,831 - INFO - Processing query: Search for elon musk.
+2025-08-08 12:05:08,437 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:05:08,507 - INFO - Decision: ['general search for elon musk.']
+2025-08-08 12:05:08,739 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-08 12:05:09,081 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:05:27,224 - INFO - Processing query: Very disturbing.
+2025-08-08 12:05:27,737 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:05:27,813 - INFO - Decision: ['general very disturbing.']
+2025-08-08 12:05:28,106 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-08 12:05:28,463 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:05:46,974 - INFO - Processing query: Where did alone must study?
+2025-08-08 12:05:47,601 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:05:47,794 - INFO - Decision: ['general where did alonzo church study?']
+2025-08-08 12:05:47,926 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-08 12:05:48,266 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:06:01,107 - INFO - Processing query: Can you open spotify?
+2025-08-08 12:06:01,582 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:06:01,658 - INFO - Decision: ['open spotify']
+2025-08-08 12:06:01,659 - INFO - Executing automation task
+2025-08-08 12:06:12,014 - INFO - Processing query: Open youtube.
+2025-08-08 12:06:12,536 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:06:12,586 - INFO - Decision: ['open youtube']
+2025-08-08 12:06:12,586 - INFO - Executing automation task
+2025-08-08 12:06:20,792 - INFO - Processing query: Close youtube.
+2025-08-08 12:06:21,401 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:06:21,482 - INFO - Decision: ['close youtube']
+2025-08-08 12:06:21,483 - INFO - Executing automation task
+2025-08-08 12:06:27,848 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/c37cc429e0cb7a0fb11e717e54fad815/element/f.DF49CF2D58BA4CF291A70F51FB7ECDD9.d.6466747B7F5C5D0772C06E1A6DBC6B2B.e.39/text
+2025-08-08 12:07:10,044 - INFO - Initializing Voice Assistant...
+2025-08-08 12:07:10,046 - INFO - Voice Assistant initialized successfully
+2025-08-08 12:07:10,047 - INFO - Starting voice recognition thread
+2025-08-08 12:07:10,047 - INFO - Starting GUI thread
+2025-08-08 12:07:20,601 - INFO - Processing query: Jarvis aur open youtube.
+2025-08-08 12:07:21,169 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:07:21,195 - INFO - Decision: ['open youtube']
+2025-08-08 12:07:21,195 - INFO - Executing automation task
+2025-08-08 12:07:29,789 - INFO - Processing query: Play one dance.
+2025-08-08 12:07:30,483 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:07:30,542 - INFO - Decision: ['play one dance']
+2025-08-08 12:07:30,542 - INFO - Executing automation task
+2025-08-08 12:07:43,884 - INFO - Processing query: What is trending today?
+2025-08-08 12:07:44,419 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:07:44,549 - INFO - Decision: ['realtime what is trending today']
+2025-08-08 12:07:45,593 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:08:27,433 - INFO - Processing query: Why trumpet is imposing tariffs on india?
+2025-08-08 12:08:28,011 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:08:28,117 - INFO - Decision: ['realtime why is trumpet imposing tariffs on india?']
+2025-08-08 12:08:29,158 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:08:50,495 - INFO - Processing query: What happens if india's topest trade deal with russia?
+2025-08-08 12:08:50,994 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:08:51,241 - INFO - Decision: ["realtime what happens if india's top trade deal with russia?"]
+2025-08-08 12:08:52,265 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:09:19,218 - INFO - Processing query: What is the possibility of rain today?
+2025-08-08 12:09:19,959 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:09:20,057 - INFO - Decision: ['realtime possibility of rain today']
+2025-08-08 12:09:20,956 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:09:45,502 - INFO - Processing query: Close wire shop.
+2025-08-08 12:09:46,017 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:09:46,081 - INFO - Decision: ['close wire shop']
+2025-08-08 12:09:46,081 - INFO - Executing automation task
+2025-08-08 12:09:52,313 - INFO - Processing query: Open settings.
+2025-08-08 12:09:53,431 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:09:53,444 - INFO - Decision: ['open settings']
+2025-08-08 12:09:53,444 - INFO - Executing automation task
+2025-08-08 12:09:58,839 - INFO - Processing query: Can you search for apps?
+2025-08-08 12:09:59,325 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:09:59,356 - INFO - Decision: ['content']
+2025-08-08 12:09:59,356 - INFO - Executing automation task
+2025-08-08 12:10:20,225 - INFO - Processing query: What is the best time to visit bali?
+2025-08-08 12:10:20,720 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:10:21,040 - INFO - Decision: ['realtime best time to visit bali']
+2025-08-08 12:10:21,975 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:10:45,316 - INFO - Processing query: Jarvis open whatsapp?
+2025-08-08 12:10:45,846 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:10:45,904 - INFO - Decision: ['open whatsapp']
+2025-08-08 12:10:45,905 - INFO - Executing automation task
+2025-08-08 12:11:00,394 - INFO - Processing query: Jarvis what is the battery percentage?
+2025-08-08 12:11:00,974 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:11:01,025 - INFO - Decision: ['system battery percentage']
+2025-08-08 12:11:01,026 - INFO - Executing automation task
+2025-08-08 12:11:28,227 - INFO - Processing query: Jarvis exit.
+2025-08-08 12:11:28,836 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-08-08 12:11:28,861 - INFO - Decision: ['exit']
+2025-08-08 12:11:29,149 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-08 12:11:29,518 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-08 12:11:36,698 - INFO - Shutting down Voice Assistant...
+2025-08-08 12:11:36,699 - INFO - Voice Assistant shutdown complete
